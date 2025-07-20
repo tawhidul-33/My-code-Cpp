@@ -1,6 +1,6 @@
 # My-code-Cpp
 
-This repository contains my C++ programming modules where I practice fundamental concepts and object-oriented programming.
+This repository contains my C++ programming modules where I practice fundamental concepts .
 
 ## Features
 
